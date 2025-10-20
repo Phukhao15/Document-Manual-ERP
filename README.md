@@ -25,19 +25,6 @@ sudo nano jail.local
 # หรือ
 sudo vi jail.local
 ```
-
-จากนั้นทำการปรับแต่งค่าตามต้องการ เช่น:
-```ini
-[sshd]
-enabled = true
-port = ssh
-filter = sshd
-logpath = /var/log/auth.log
-maxretry = 5
-bantime = 3600
-findtime = 600
-```
-
 ---
 
 ## ⚙️ 4. เพิ่ม IP ที่ต้องการยกเว้น (Whitelist)  

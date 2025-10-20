@@ -1,4 +1,4 @@
-# 🔒 การตั้งค่า Fail2Ban บน Linux Server
+# 🔒 การตั้งค่า Fail2Ban 
 
 ## 📁 1. เข้าสู่ไดเรกทอรีของ Fail2Ban  
 ```bash
